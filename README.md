@@ -12,3 +12,5 @@ A python program for printing common values from two list without duplication.
 A python program to check palindrome or not.
 
 A pyhton program to take a list and make new list from it with some condition with list comprehension.
+
+A python program for random number.
